@@ -169,6 +169,6 @@ cd path/to/deployment-exercise
 #### Running the Application
 Run the main script:
 ```
-python main.py
+python app.py
 ```
 > The python main.py command interprets and runs the main.py script, where the program is defined, including the GUI and all functionality.
